@@ -9,3 +9,7 @@ Requirements:
 * os >=
 * sklearn >=0.23.1
 * OppenCV >= 4.2.0
+
+
+Contact me at:
+dutta.sridipta53@gmail.comm
