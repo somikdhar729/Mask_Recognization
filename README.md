@@ -12,4 +12,4 @@ Requirements:
 
 
 Contact me at:
-dutta.sridipta53@gmail.comm
+dutta.sridipta53@gmail.com
