@@ -12,4 +12,4 @@ Requirements:
 
 
 Contact me at:
-somikdhar.edu997@gmail.com
+somikdhar327@gmail.com
