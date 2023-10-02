@@ -13,3 +13,5 @@ Requirements:
 
 Contact me at:
 somikdhar327@gmail.com
+
+Contributor: Sridipta Dutta
