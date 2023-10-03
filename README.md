@@ -11,7 +11,7 @@ Requirements:
 * OppenCV >= 4.2.0
 
 
-Video: https://www.youtube.com/watch?v=7wAw15L6rPk
+Video: https://www.youtube.com/watch?v=7wAw15L6rPk \\
 
 Contributor: 
 1. Sridipta Dutta
