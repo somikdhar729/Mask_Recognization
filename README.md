@@ -11,7 +11,5 @@ Requirements:
 * OppenCV >= 4.2.0
 
 
-Contact me at:
-somikdhar327@gmail.com
 
 Contributor: Sridipta Dutta
